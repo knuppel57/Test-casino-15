@@ -44,7 +44,7 @@ export const POOLS = [
 ]
 
 // The default token to be selected
-export const DEFAULT_POOL = (99aNVffmoyzM1XsXimpVCqa6EEJa3LeCL64jFmf7YE7o),
+export const DEFAULT_POOL = (4),
 
 /**
  * List of token metadata for the supported tokens
