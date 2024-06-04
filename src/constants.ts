@@ -39,8 +39,8 @@ export const POOLS = [
   lp('So11111111111111111111111111111111111111112'),
   // USDC:
   lp('EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'),
-  // Wormhole:
-  lp('85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ'),
+  // Pepes Casino:
+  lp('14g3GR9ZysZR8MctMqXfiHZPcQrHEazSXahdGcXzjDqk'),
 ]
 
 // The default token to be selected
@@ -61,10 +61,10 @@ export const TOKEN_METADATA: (Partial<TokenMeta> & {mint: PublicKey})[] = [
     usdPrice: 0,
   },
   {
-    mint: new PublicKey('85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ'),
-    name: 'W',
-    symbol: 'Wormhole',
-    image: 'https://wormhole.com/token.png',
+    mint: new PublicKey('99aNVffmoyzM1XsXimpVCqa6EEJa3LeCL64jFmf7YE7o'),
+    name: 'Pepes Casino',
+    symbol: '$PECA',
+    image: 'https://i.im.ge/2024/06/04/Kmmy8K.favicon.png',
     baseWager: 1e6,
     decimals: 6,
     usdPrice: 0,
