@@ -40,7 +40,7 @@ export const POOLS = [
   // USDC:
   lp('EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'),
   // Pepes Casino:
-  lp('14g3GR9ZysZR8MctMqXfiHZPcQrHEazSXahdGcXzjDqk'),
+  lp('99aNVffmoyzM1XsXimpVCqa6EEJa3LeCL64jFmf7YE7o'),
 ]
 
 // The default token to be selected
